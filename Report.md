@@ -9,7 +9,8 @@
 * **[Di truyền](https://vi.wikipedia.org/wiki/Di_truy%E1%BB%81n):** là hiện tượng chuyền đặc điểm của thế hệ trước cho thế hệ sau. rong sinh học và di truyền học, di truyền chuyển những đặc trưng sinh học từ một sinh vật cha mẹ đến con cái và nó đồng nghĩa với di chuyển gen, gen thừa nhận mang thông tin sinh học. 
 * **[Tiến hóa](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFn_h%C3%B3a):** sự thay đổi đặc tính di truyền của một quần thể sinh học qua những thế hệ nối tiếp nhau. Những đặc tính này là sự biểu hiện của các gen được truyền từ bố mẹ sang con cái thông qua quá trình sinh sản.  
 
-**Thuật giải di truyền:** Là các thuật toán tìm kiếm heuristic phỏng theo quá trình thích nghi tiến hóa của quần thể với ý tưởng cơ bản là *chọn lọc tự nhiên* và *di truyền*. Nhờ vào sự trọn lọc và quan sát các đặc tính qua nhiều thế hệ qua đó tăng hiệu xuất tốt hơn trong một không gian tìm kiếm. Vì thế **GA** thường được sử dụng để tạo ra các giải pháp chất lượng cho các vấn đề tối ưu và tìm kiếm.  
+**Thuật giải di truyền:** Là các thuật toán tìm kiếm heuristic phỏng theo quá trình thích nghi tiến hóa của quần thể với ý tưởng cơ bản là *chọn lọc tự nhiên* và *di truyền*. Nhờ vào sự trọn lọc và quan sát các đặc tính qua nhiều thế hệ qua đó tăng hiệu xuất tốt hơn trong một không gian tìm kiếm. Vì thế **GA** thường được sử dụng để tạo ra các giải pháp chất lượng cho các vấn đề tối ưu và tìm kiếm. 
+ 
 ---
 ### Foundation of Genetic Algorithms
 **B1**: Quan sát, đánh giá sự thích nghi của các cá thể trong quần thể.  
